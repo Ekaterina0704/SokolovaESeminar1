@@ -1,0 +1,15 @@
+/Users/vadim/Desktop/попытка изменить жизнь к лучшему/C# семинары/Sem3Zadacha23/bin/Debug/net6.0/Sem3Zadacha23
+/Users/vadim/Desktop/попытка изменить жизнь к лучшему/C# семинары/Sem3Zadacha23/bin/Debug/net6.0/Sem3Zadacha23.deps.json
+/Users/vadim/Desktop/попытка изменить жизнь к лучшему/C# семинары/Sem3Zadacha23/bin/Debug/net6.0/Sem3Zadacha23.runtimeconfig.json
+/Users/vadim/Desktop/попытка изменить жизнь к лучшему/C# семинары/Sem3Zadacha23/bin/Debug/net6.0/Sem3Zadacha23.dll
+/Users/vadim/Desktop/попытка изменить жизнь к лучшему/C# семинары/Sem3Zadacha23/bin/Debug/net6.0/Sem3Zadacha23.pdb
+/Users/vadim/Desktop/попытка изменить жизнь к лучшему/C# семинары/Sem3Zadacha23/obj/Debug/net6.0/Sem3Zadacha23.csproj.AssemblyReference.cache
+/Users/vadim/Desktop/попытка изменить жизнь к лучшему/C# семинары/Sem3Zadacha23/obj/Debug/net6.0/Sem3Zadacha23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Desktop/попытка изменить жизнь к лучшему/C# семинары/Sem3Zadacha23/obj/Debug/net6.0/Sem3Zadacha23.AssemblyInfoInputs.cache
+/Users/vadim/Desktop/попытка изменить жизнь к лучшему/C# семинары/Sem3Zadacha23/obj/Debug/net6.0/Sem3Zadacha23.AssemblyInfo.cs
+/Users/vadim/Desktop/попытка изменить жизнь к лучшему/C# семинары/Sem3Zadacha23/obj/Debug/net6.0/Sem3Zadacha23.csproj.CoreCompileInputs.cache
+/Users/vadim/Desktop/попытка изменить жизнь к лучшему/C# семинары/Sem3Zadacha23/obj/Debug/net6.0/Sem3Zadacha23.dll
+/Users/vadim/Desktop/попытка изменить жизнь к лучшему/C# семинары/Sem3Zadacha23/obj/Debug/net6.0/refint/Sem3Zadacha23.dll
+/Users/vadim/Desktop/попытка изменить жизнь к лучшему/C# семинары/Sem3Zadacha23/obj/Debug/net6.0/Sem3Zadacha23.pdb
+/Users/vadim/Desktop/попытка изменить жизнь к лучшему/C# семинары/Sem3Zadacha23/obj/Debug/net6.0/Sem3Zadacha23.genruntimeconfig.cache
+/Users/vadim/Desktop/попытка изменить жизнь к лучшему/C# семинары/Sem3Zadacha23/obj/Debug/net6.0/ref/Sem3Zadacha23.dll
